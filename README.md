@@ -31,3 +31,9 @@ The chatbot is publicly available and deployed on GitHub Pages:
 ## 📌 Notes
 - The chatbot is embedded using the Botpress shareable webchat iframe.
 - Styling of the chatbot is managed via Botpress Webchat settings.
+
+---
+
+## Future Improvements:
+- Integrate a real-time weather API (e.g., OpenWeatherMap) to provide live weather data.
+
